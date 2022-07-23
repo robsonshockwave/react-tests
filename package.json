@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/robsonshockwave/tdd-react#readme",
   "devDependencies": {
-    "jest": "^28.1.3"
+    "@babel/preset-env": "^7.18.9",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^28.1.3",
+    "jest": "^28.1.3",
+    "regenerator-runtime": "^0.13.9"
   }
 }
